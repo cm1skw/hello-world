@@ -1,3 +1,3 @@
 # hello-world
-# Hi, everybody.
-#Nice meet you
+Hi, everybody.
+Nice meet you
